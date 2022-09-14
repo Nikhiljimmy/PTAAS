@@ -1,0 +1,1 @@
+java -Xmx8G --illegal-access=permit -javaagent:BurpSuiteLoader_v2022.1.jar -noverify -jar burpsuite_pro_v2022.1.jar

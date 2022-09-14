@@ -1,0 +1,45 @@
+    1  apt install docker.io
+    2  sudo apt install docker.io
+    3  docker
+    4  sudo apt install jython
+    5  sudo apt install jython --fix-missing
+    6  jython
+    7  sudo apt install jython
+    8  sudo apt update
+    9  apt list --upgradable
+   10  sudo apt update
+   11  apt list --upgradable
+   12  sudo apt install jython
+   13  jython
+   14  mkdir /usr/local/jython-2.7.2/
+   15  sudo mkdir /usr/local/jython-2.7.2/
+   16  cp jython-standalone-2.7.2.jar /usr/local/jython-2.7.2/
+   17  sudo cp jython-standalone-2.7.2.jar /usr/local/jython-2.7.2/
+   18  cd carbonator/
+   19  ls
+   20  sudo bash launch_burp.sh http testphp.vulnweb.com 80 / --user-config-file=user.json
+   21  java -jar Loader.jar 
+   22  sudo bash launch_burp.sh http testphp.vulnweb.com 80 / --user-config-file=user.json
+   23  wget https://bin.equinox.io/c/bNyj1mQVY4c/ngrok-v3-stable-linux-amd64.tgz
+   24  sudo tar xvzf ~/Downloads/ngrok-v3-stable-linux-amd64.tgz -C /usr/local/bin
+   25  ngrok
+   26  cd /var/lib/jenkins/workspace/PTAAS
+   27  ls
+   28  pwd
+   29  git
+   30  git init
+   31  git add .
+   32  git commit -m "PTAAS PROJECT"
+   33  git config --global user.email "kishangupta9494@gmail.com"
+   34  git config --global user.username "kishangupta94"
+   35  git commit -m "PTAAS PROJECT"
+   36  git remote add origin https://github.com/kishangupta94/PTAAS_CDAC_PROJECT.git
+   37  git commit -m "PTAAS PROJECT"
+   38  git push
+   39  git init
+   40  git config --global user.name "kishangupta94"
+   41  git config --global user.email "kishangupta9494@gmail.com"
+   42  git remote add origin https://github.com/kishangupta94/PTAAS_CDAC_PROJECT.git
+   43  git add .
+   44  git commit -m "PTAAS PROJECT"
+   45  git push -u origin master
